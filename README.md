@@ -1,5 +1,8 @@
 # CRUD Application
 
+![image](https://github.com/ADITYADWIVEDI18/CRUD-User-Management-System/assets/104710359/95d4c14b-6b8e-44f0-bcd8-bdf523206836)
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
